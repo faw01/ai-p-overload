@@ -1,6 +1,6 @@
-# AI Overload
+# overload.ai
 
-AI Overload is a fitness application that uses AI to predict the most suitable workout based on factors such as age, gender, BMI, and fitness level.
+overload.ai is a fitness application that uses AI to predict the most suitable workout based on factors such as age, gender, BMI, and fitness level.
 
 ## Features
 
