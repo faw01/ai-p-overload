@@ -1,5 +1,7 @@
 # overload.ai
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 overload.ai is a fitness application that uses AI to predict the most suitable workout based on factors such as age, gender, BMI, and fitness level.
 
 ## Features
