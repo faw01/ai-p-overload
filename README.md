@@ -30,7 +30,7 @@ TBC (requirements.txt)
 
 ## Data Sources
 
-The model leverages data mainly from Kaggle and the [!Strong](https://www.strong.app/) app (user-reported data) to provide personalized and optimized workout plans.
+The model leverages data mainly from Kaggle and the [Strong](https://www.strong.app/) app (user-reported data) to provide personalized and optimized workout plans.
 
 ## Challenges
 
