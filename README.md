@@ -2,7 +2,7 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-overolad.ai is an AI based fitness application designed to optimize progressive overload workout planning. It leverages the power of data and machine learning to provide personalized workout plans for its users, aiming to predict the optimal rep count, set number, exercise frequency, and weight for muscle gain.
+overload.ai is an AI based fitness application designed to optimize progressive overload workout planning. It leverages the power of data and machine learning to provide personalized workout plans for its users, aiming to predict the optimal rep count, set number, exercise frequency, and weight for muscle gain.
 
 ## Features
 
